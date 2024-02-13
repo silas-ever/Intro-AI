@@ -7,7 +7,7 @@ Coursework completed for Intro to Artificial Intelligence (CS 3600) at Georgia T
 + **Search**: Uniformed Search, Informed Search, BFS, DFS
 + **Reasoning**: Reasoning with Uncertainty, Probabilistic Reasoning over Time
 + **Learning**: Markov Decision Processes, Reinforcement Learning, Supervised Learning, Decision Trees, Q-learning, Neural Networks
-+ **Other**: Agents, Environmental Factors, Classification, Societal Implications
++ **Other**: Agents, Environmental Factors, Classification, Planning, Societal Implications
 
 
 ## Learning Goals
